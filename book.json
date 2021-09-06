@@ -1,0 +1,16 @@
+{
+    "title": "前端开发手册",
+    "language": "zh-hans",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-pro",
+        "code",
+        "splitter",
+        "chapter-fold",
+        "@dogatana/page-toc-button"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "development-manual",
+  "version": "1.0.0",
+  "description": "```javascript let a=1 let b=2 ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALNY-AC/development-manual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALNY-AC/development-manual/issues"
+  },
+  "homepage": "https://github.com/ALNY-AC/development-manual#readme",
+  "dependencies": {
+    "@dogatana/honkit-plugin-page-toc-button": "^1.0.0",
+    "gitbook-plugin-anchor-navigation-ex": "^1.0.14",
+    "gitbook-plugin-chapter-fold": "0.0.4",
+    "gitbook-plugin-code": "^0.1.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-splitter": "0.0.8"
+  }
+}
